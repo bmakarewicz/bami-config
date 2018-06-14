@@ -1,4 +1,4 @@
 eureka:
   client:
     service-url:
-      defaultZone: https://discovery-service-tricorn-kgr.cfapps.io/eureka
+      defaultZone: https://bami-discovery-service.cfapps.io/eureka
